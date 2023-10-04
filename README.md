@@ -5,6 +5,7 @@
 ## 1. 데이터 타입
 
 [식별자와 변수](https://github.com/rainleee/core-javascript-book/blob/main/01.%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/index.md#%EC%8B%9D%EB%B3%84%EC%9E%90%EC%99%80-%EB%B3%80%EC%88%98)
+
 - [변수](https://github.com/rainleee/core-javascript-book/blob/main/01.%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/index.md#%EB%B3%80%EC%88%98)
 - [식별자](https://github.com/rainleee/core-javascript-book/blob/main/01.%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/index.md#%EC%8B%9D%EB%B3%84%EC%9E%90)
 
@@ -14,7 +15,7 @@
 
 [기본형 데이터와 참조형 데이터](https://github.com/rainleee/core-javascript-book/blob/main/01.%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/index.md#%EA%B8%B0%EB%B3%B8%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80-%EC%B0%B8%EC%A1%B0%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0)
 
-[가비지 컬렉터](https://github.com/rainleee/core-javascript-book/blob/main/01.%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/index.md#%EA%B8%B0%EB%B3%B8%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80-%EC%B0%B8%EC%A1%B0%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0)
+[가비지 컬렉터](https://github.com/rainleee/core-javascript-book/blob/main/01.%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/index.md#gc%EA%B0%80%EB%B9%84%EC%A7%80-%EC%BB%AC%EB%A0%89%ED%84%B0)
 
 [기본/참조형 변수 복사 비교](https://github.com/rainleee/core-javascript-book/blob/main/01.%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/index.md#%EA%B8%B0%EB%B3%B8%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80-%EC%B0%B8%EC%A1%B0%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0)
 
